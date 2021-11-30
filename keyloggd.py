@@ -30,15 +30,7 @@ def logger():
 
 if __name__ == "__main__":
     os.system('cls' if os.name == 'nt' else 'clear')
-    print("""  _              _                   _     _ 
- | |            | |                 ( )   | |
- | | _____ _   _| | ___   __ _  __ _|/  __| |
- | |/ / _ \ | | | |/ _ \ / _` |/ _` |  / _` |
- |   <  __/ |_| | | (_) | (_| | (_| | | (_| |
- |_|\_\___|\__, |_|\___/ \__, |\__, |  \__,_|
-            __/ |         __/ | __/ |        
-           |___/         |___/ |___/         
- \nMinimalistic Python keylogger - Press Enter to start. - Press Esc to show results""")
+    print("\nMinimalistic Python keylogger - Press Enter to start. - Press Esc to show results")
     input()
     os.system('cls' if os.name == 'nt' else 'clear')
     while True:
