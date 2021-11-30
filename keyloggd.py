@@ -30,7 +30,7 @@ def logger():
 
 if __name__ == "__main__":
     os.system('cls' if os.name == 'nt' else 'clear')
-    print("\nMinimalistic Python keylogger - Press Enter to start. - Press Esc to show results")
+    print("\nMinimal Python keylogger - Press Enter to start. - Press Esc to show results")
     input()
     os.system('cls' if os.name == 'nt' else 'clear')
     while True:
