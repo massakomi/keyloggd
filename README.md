@@ -1,2 +1,2 @@
 ## keylogg'd
-Minimalistic keylogger in Python w/ Pynput
+Minimal keylogger in Python w/ [Pynput](https://pynput.readthedocs.io/en/latest/)
